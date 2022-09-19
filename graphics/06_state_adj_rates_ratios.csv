@@ -1,52 +1,52 @@
 "State","stab","Adjusted Black rate","Adjusted White rate","Adjusted Hispanic rate","Ratio of adjusted Black death rate to White adjusted rate","Ratio of adjusted Hispanic death rate to White adjusted rate"
-Alabama,AL,567.7,422.0,384.8,1.3,0.9
-Alaska,AK,66.7,151.8,39.2,0.4,0.3
-Arizona,AZ,582.1,383.7,905.6,1.5,2.4
-Arkansas,AR,517.6,410.9,489.7,1.3,1.2
-California,CA,424.0,238.4,624.4,1.8,2.6
-Colorado,CO,373.5,229.8,549.6,1.6,2.4
-Connecticut,CT,668.3,353.3,559.5,1.9,1.6
-Delaware,DE,502.2,357.7,405.5,1.4,1.1
-District of Columbia,DC,335.3,97.1,378.5,3.5,3.9
-Florida,FL,701.3,364.8,544.2,1.9,1.5
-Georgia,GA,479.4,357.4,413.3,1.3,1.2
-Hawaii,HI,,53.6,240.4,,4.5
-Idaho,ID,,295.3,496.8,,1.7
-Illinois,IL,482.9,296.7,512.9,1.6,1.7
-Indiana,IN,563.1,388.1,490.3,1.5,1.3
-Iowa,IA,661.8,333.4,450.5,2.0,1.4
-Kansas,KS,538.1,333.2,592.9,1.6,1.8
-Kentucky,KY,471.8,412.5,325.7,1.1,0.8
-Louisiana,LA,523.1,361.8,315.4,1.4,0.9
-Maine,ME,,200.0,,,
-Maryland,MD,440.6,286.1,445.0,1.5,1.6
-Massachusetts,MA,477.9,304.8,471.5,1.6,1.5
-Michigan,MI,626.4,325.7,559.2,1.9,1.7
-Minnesota,MN,454.9,251.8,401.5,1.8,1.6
-Mississippi,MS,682.0,474.7,311.5,1.4,0.7
-Missouri,MO,504.3,356.5,422.7,1.4,1.2
-Montana,MT,,319.5,534.3,,1.7
-Nebraska,NE,400.2,288.4,444.3,1.4,1.5
-Nevada,NV,641.0,410.3,664.9,1.6,1.6
-New Hampshire,NH,,198.4,266.8,,1.3
-New Jersey,NJ,708.4,397.1,689.1,1.8,1.7
-New Mexico,NM,421.4,331.5,621.3,1.3,1.9
-New York,NY,207.8,259.3,169.6,0.8,0.7
-North Carolina,NC,427.5,313.4,388.2,1.4,1.2
-North Dakota,ND,,380.2,396.0,,1.0
-Ohio,OH,512.8,407.2,408.6,1.3,1.0
-Oklahoma,OK,598.4,444.1,662.7,1.3,1.5
-Oregon,OR,313.1,197.9,315.9,1.6,1.6
-Pennsylvania,PA,592.1,405.7,520.7,1.5,1.3
-Rhode Island,RI,422.3,411.9,502.8,1.0,1.2
-South Carolina,SC,546.6,371.3,367.6,1.5,1.0
-South Dakota,SD,,358.7,253.0,,0.7
-Tennessee,TN,565.1,418.1,462.7,1.4,1.1
-Texas,TX,474.5,363.5,680.0,1.3,1.9
-Utah,UT,38.4,158.0,305.4,0.2,1.9
-Vermont,VT,,117.1,,,
-Virginia,VA,380.7,255.2,338.1,1.5,1.3
-Washington,WA,249.2,183.7,379.8,1.4,2.1
-West Virginia,WV,463.5,416.2,,1.1,
-Wisconsin,WI,546.6,272.0,507.6,2.0,1.9
-Wyoming,WY,,282.5,495.7,,1.8
+Alabama,AL,574.9,429.0,385.8,1.3,0.9
+Alaska,AK,73.4,155.5,39.2,0.5,0.3
+Arizona,AZ,586.8,388.1,910.7,1.5,2.3
+Arkansas,AR,525.1,418.5,498.8,1.3,1.2
+California,CA,431.8,244.6,630.8,1.8,2.6
+Colorado,CO,377.0,233.1,554.1,1.6,2.4
+Connecticut,CT,674.0,357.3,564.1,1.9,1.6
+Delaware,DE,507.2,364.2,405.5,1.4,1.1
+District of Columbia,DC,340.7,98.9,380.9,3.4,3.9
+Florida,FL,712.7,375.2,553.1,1.9,1.5
+Georgia,GA,486.1,364.1,417.5,1.3,1.1
+Hawaii,HI,,58.4,250.3,,4.3
+Idaho,ID,,300.6,503.3,,1.7
+Illinois,IL,485.8,301.3,515.4,1.6,1.7
+Indiana,IN,568.9,393.7,494.1,1.4,1.3
+Iowa,IA,665.0,338.9,455.3,2.0,1.3
+Kansas,KS,542.5,338.7,596.6,1.6,1.8
+Kentucky,KY,481.5,422.7,326.2,1.1,0.8
+Louisiana,LA,528.1,367.2,318.9,1.4,0.9
+Maine,ME,,204.3,,,
+Maryland,MD,444.4,291.4,451.3,1.5,1.5
+Massachusetts,MA,479.2,309.3,473.1,1.5,1.5
+Michigan,MI,631.9,330.6,565.4,1.9,1.7
+Minnesota,MN,459.4,256.1,403.5,1.8,1.6
+Mississippi,MS,693.2,483.8,311.5,1.4,0.6
+Missouri,MO,512.0,362.8,424.8,1.4,1.2
+Montana,MT,,322.9,534.3,,1.7
+Nebraska,NE,402.3,294.5,451.9,1.4,1.5
+Nevada,NV,646.2,415.7,667.0,1.6,1.6
+New Hampshire,NH,,201.5,281.2,,1.4
+New Jersey,NJ,714.1,401.2,693.9,1.8,1.7
+New Mexico,NM,435.9,336.4,629.2,1.3,1.9
+New York,NY,209.1,263.1,170.8,0.8,0.6
+North Carolina,NC,434.6,319.7,392.5,1.4,1.2
+North Dakota,ND,,385.8,396.0,,1.0
+Ohio,OH,519.2,413.9,413.0,1.3,1.0
+Oklahoma,OK,609.8,456.7,669.0,1.3,1.5
+Oregon,OR,319.8,203.8,322.9,1.6,1.6
+Pennsylvania,PA,597.0,411.4,523.6,1.5,1.3
+Rhode Island,RI,422.3,417.5,502.8,1.0,1.2
+South Carolina,SC,555.8,379.6,369.7,1.5,1.0
+South Dakota,SD,189.1,364.2,253.0,0.5,0.7
+Tennessee,TN,571.3,427.3,470.4,1.3,1.1
+Texas,TX,480.7,369.8,686.4,1.3,1.9
+Utah,UT,38.4,160.4,308.8,0.2,1.9
+Vermont,VT,,122.0,,,
+Virginia,VA,390.3,263.2,342.2,1.5,1.3
+Washington,WA,255.9,188.7,383.0,1.4,2.0
+West Virginia,WV,470.0,426.2,63.0,1.1,0.1
+Wisconsin,WI,552.4,276.6,515.2,2.0,1.9
+Wyoming,WY,,288.0,499.9,,1.7
